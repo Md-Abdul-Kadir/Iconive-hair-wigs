@@ -37,13 +37,13 @@ export default function Navigation() {
         <img className="me-auto -mt" wiidt="50px" height="100px" src={logo} alt="this is a logo"/>
       </div>
       <div className="w-50 d-flex">
-      <h1 className="fw-bold mb-auto mx-auto w-50">
+      <h1 className="fw-bold pe-5 mb-auto mx-auto w-50">
         ICONIVE
       </h1>
       </div>
       
       <div className="w-25 d-flex py-4 justify-end">
-      <div class="d-flex border rounded-3 ms-auto">
+      <div class="d-flex border rounded-3 ms-auto overflow-hidden">
           <input class="border-0 my-auto  me-2 py-1" type="search" placeholder=" Search wigs" aria-label="Search"/>
           <SearchIcon className="text-black me-2 my-auto"/>
       </div>
