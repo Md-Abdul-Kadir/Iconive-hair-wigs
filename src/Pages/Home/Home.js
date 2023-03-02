@@ -23,7 +23,7 @@ export default function Home() {
               alt="this is a picture of girl"
             />
           </div>
-          <h4 className="fw-bold py-3">LADIES</h4>
+          <h4 className="fw-bold py-3">GENTS</h4>
           <p>
             Explore yourself, be the glamourous persona you always dreamed of.
           </p>
@@ -41,7 +41,8 @@ export default function Home() {
               alt="this is a picture of girl"
             />
           </div>
-          <h4 className="fw-bold py-3">GENTS</h4>
+        
+          <h4 className="fw-bold py-3">LADIES</h4>
           <p>
             Be confident with any style you like to own from a large variety of
             styles
