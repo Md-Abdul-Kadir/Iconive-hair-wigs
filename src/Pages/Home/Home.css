@@ -1,0 +1,19 @@
+hr{
+    border: 2px solid rgb(0, 0, 0);
+    width: 90%;
+    margin: auto;
+    z-index: 1;
+   
+}
+.ps-r{
+    position: relative;
+}
+.abs{
+    position: absolute;
+    top: 23px;
+    right: 38%;
+}
+.-mb{
+    margin-bottom: -20px;
+    z-index: 2;
+}
